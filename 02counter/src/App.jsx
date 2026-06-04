@@ -37,5 +37,4 @@ function App(){
   )
 }
 
-export default App
-npm create vite@latest
+export default App;
