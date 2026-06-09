@@ -5,7 +5,6 @@ import authService from "./appwrite/auth"
 import {login,logout} from "./store/authSlice"
 
 
-
 function App() {
   const [loading ,setLoading] = useState(true)
   const dispatch = useDispatch()
